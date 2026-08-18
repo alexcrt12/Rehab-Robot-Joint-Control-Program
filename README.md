@@ -1,0 +1,2 @@
+# Visual Studio enabled Rehab Robot Joint Control program
+This program is developed using C++ on a MS Visual Studio environment, tested physically on the actual Robot with extra functionailty added for testing Joint Movement at given angles for each type of Joint(Hip, Knee and Ankle), the Range of Motion (RoM) and a series of functions with the role of doing Bicycle Kicks within a number of given cycles.
